@@ -164,7 +164,7 @@ class InlineResponse2002 implements ModelInterface, ArrayAccess, \JsonSerializab
     }
 
     const ACCOUNT_STATUS_SENT_TO_WHATS_APP = 'Expiry request sent to WhatsApp';
-    const ACCOUNT_STATUS_NOT_SENT_BECAUSE_SUBSTATUS_DONT_EQUALS_EXPIRED = 'Expiry request not sent because substatus don't equals \"expired\"';
+    const ACCOUNT_STATUS_NOT_SENT_BECAUSE_SUBSTATUS_DONT_EQUALS_EXPIRED = 'Expiry request not sent because substatus don\'t equals \"expired\"';
 
     /**
      * Gets allowable values of the enum
